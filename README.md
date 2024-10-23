@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the Brakerski-Gentry-Vaikuntanathan (BGV) cryptographic scheme. BGV is a homomorphic encryption scheme that allows computations to be performed on encrypted data without needing to decrypt it first.
 
-For now, this is just a simple code inspired by [shibataka000's](https://github.com/shibataka000/BGV) BGV implementation. Soon in the future, I want to implement some practical uses for BGV, such as voting and/or a machine learning algorithm.
+For now, this is just a simple code inspired by [shibataka000's](https://github.com/shibataka000/BGV) and [Bill Buchanan's](https://asecuritysite.com/homomorphic/bgv) BGV implementation. Soon in the future, I want to implement some practical uses for BGV, such as voting and/or a machine learning algorithm.
 
 ## Contributing
 
